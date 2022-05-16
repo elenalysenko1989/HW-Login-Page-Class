@@ -1,0 +1,10 @@
+05/15/2022 09:07:14 PM Opening firefox browser
+05/15/2022 09:07:56 PM Navigating to https://www.saucedemo.com/
+05/15/2022 09:07:56 PM ******Test Case: Validating Login Page Title
+05/15/2022 09:07:56 PM Taking a screenshot .\screenshots\image-051522-210756.png
+05/15/2022 09:07:56 PM Closing the browser
+05/15/2022 09:08:04 PM Opening firefox browser
+05/15/2022 09:08:28 PM Navigating to https://www.saucedemo.com/
+05/15/2022 09:08:29 PM ******Test Case: Validating Login Process
+05/15/2022 09:08:29 PM Taking a screenshot .\screenshots\image-051522-210829.png
+05/15/2022 09:08:29 PM Closing the browser
