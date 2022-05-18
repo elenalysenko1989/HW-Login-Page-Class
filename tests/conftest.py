@@ -1,8 +1,8 @@
 import pytest
 from selenium import webdriver
 from datetime import datetime
-from utilites.ReadConfig import ReadConfig
-from utilites.logger import Logger
+from utilities.ReadConfig import ReadConfig
+from utilities.Logger import Logger
 
 logger =Logger.get_logger()
 
